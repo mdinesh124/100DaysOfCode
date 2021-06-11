@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.util.function.*;
 
-class GFG {
+class MethodReference {
    
 	public static void main (String[] args) {
 	
